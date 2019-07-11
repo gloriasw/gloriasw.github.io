@@ -1,0 +1,28 @@
+h1{
+color: black;
+font-style: :italic;
+}
+
+h1{
+  text-align:center;
+}
+h3{
+  color: green;
+  text-align:center;
+}
+
+p{
+  font-style:italic;
+}
+
+body{
+  background-color: pink;
+}
+
+head{
+  font-style:italic;
+}
+
+.pictures{
+  margin-top: 2000px;
+}
